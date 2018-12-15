@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KnockKnockMobile</string>
+  <string name="ring_message">Someone is at your door. Let them in?</string>
+  <string name="yesText">YES</string>
+  <string name="noText">no</string>
+  <string name="default_message">No one is at your door.</string>
+</resources>
